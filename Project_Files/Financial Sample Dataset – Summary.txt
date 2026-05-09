@@ -1,0 +1,137 @@
+Financial Sample Dataset – Summary Notes
+Dataset Overview
+Total Records: 700
+Total Columns: 16
+Data Type: Financial / Sales Dataset
+Years Covered: 2013 & 2014
+Main Dimensions (Categorical Fields)
+Segments
+
+The business is divided into 5 customer segments:
+
+Government
+Midmarket
+Channel Partners
+Enterprise
+Small Business
+Countries
+
+Sales data belongs to 5 countries:
+
+Canada
+Germany
+France
+Mexico
+United States of America
+Products
+
+6 products are available:
+
+Carretera
+Montana
+Paseo
+Velo
+VTT
+Amarilla
+Important Measures (Numerical Columns)
+
+The dataset contains key business KPIs:
+
+Units Sold
+Manufacturing Price
+Sale Price
+Gross Sales
+Discounts
+Sales
+COGS (Cost of Goods Sold)
+Profit
+Overall Business Performance
+Total Units Sold
+
+≈ 1.13 Million Units
+
+Total Gross Sales
+
+≈ 127.93 Million
+
+Total Discounts Given
+
+≈ 9.21 Million
+
+Net Sales
+
+≈ 118.73 Million
+
+Total COGS
+
+≈ 101.83 Million
+
+Total Profit
+
+≈ 16.89 Million
+
+Top Performing Insights
+Highest Profit Country
+France
+Germany
+Canada
+Best Product by Profit
+Paseo
+
+Generated the highest profit among all products.
+
+Most Profitable Segment
+Government Segment
+
+Contributed the maximum profit.
+
+Lowest Performing Segment
+Enterprise Segment
+
+Generated negative profit (loss).
+
+Time Analysis
+
+The dataset includes:
+
+Date
+Month Number
+Month Name
+Year
+
+This allows:
+
+Monthly trend analysis
+Year-over-year comparison
+Seasonal sales analysis
+Business Use Cases of This Dataset
+
+This dataset can be used for:
+
+Sales Analysis
+Profitability Analysis
+Country-wise Performance
+Product Performance Tracking
+Discount Impact Analysis
+Dashboard Creation in Power BI/Tableau
+KPI Reporting
+Financial Forecasting Practice
+Best KPIs for Dashboard
+
+Recommended KPIs:
+
+Total Sales
+Total Profit
+Profit Margin %
+Units Sold
+Discount %
+Top Product
+Top Country
+Monthly Sales Trend
+Suggested Visuals
+Line Chart → Monthly Sales Trend
+Bar Chart → Country-wise Profit
+Pie/Donut Chart → Segment Contribution
+Tree Map → Product Performance
+KPI Cards → Sales, Profit, Units Sold
+Map Visual → Country Sales Distribution
